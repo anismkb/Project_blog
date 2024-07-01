@@ -15,13 +15,23 @@
 
 Create a new virtual environment in that directory
 
-- python3.6 -m pip install virtualenv
-- virtualenv venv -p python3.6
+- python -m pip install virtualenv 
+- virtualenv test
 
 Activate virtual environment
 
-- source venv/bin/activate
+- source test\Scripts\activate
 
+Install django 
+
+- pip install django
+
+Clone the project
+Go to the repository of our project
+
+- cd multilang_site
+
+Install Docker
 lancement de docker
 
 - docker compose up
