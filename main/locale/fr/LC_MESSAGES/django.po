@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-30 20:47+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: .\templates\chat.html:75
+msgid "search Blog"
+msgstr "Recherche article"
+
+#: .\templates\chat.html:80
+msgid "Find a blog"
+msgstr "Trouve article"
+
+#: .\templates\chat.html:84
+msgid "Search"
+msgstr "Recherche"
+
+#: .\templates\chat.html:108
+msgid "No blogs found."
+msgstr "aucun article n'a été trouvé"
+
+#: .\templates\chat.html:112
+msgid "back to blogs"
+msgstr "retour aux articles"
+
+#: .\templates\main.html:61
+msgid "The articles are :"
+msgstr "les articles sont"
+
+#: .\templates\main.html:66 .\templates\main.html:82
+msgid "Title"
+msgstr "Titre"
+
+#: .\templates\main.html:67 .\templates\main.html:83
+msgid "Content"
+msgstr "Contenu"
+
+#: .\templates\main.html:68 .\templates\main.html:84
+msgid "Date published On"
+msgstr "Date de publication"
+
+#: .\templates\main.html:90
+msgid "Search blog"
+msgstr "Recherche article"
+
+#~ msgid "Position"
+#~ msgstr "Position"
+
+#~ msgid "hello"
+#~ msgstr "Bonjour"
