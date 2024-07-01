@@ -140,10 +140,6 @@ STATICFILES_DIRS = [
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-# OPENAI_API_KEY = 'sk-proj-17X2KdGmh8TdLw3Z4cl8T3BlbkFJkLfcvgYRLfUAb7cW2V3i'
-
-# OPENAI_API_KEY = os.getenv('OPENAI_API_KEY', 'sk-proj-17X2KdGmh8TdLw3Z4cl8T3BlbkFJkLfcvgYRLfUAb7cW2V3i')
-
 
 ELASTICSEARCH_DSL = {
     'default': {
