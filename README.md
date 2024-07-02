@@ -11,39 +11,53 @@
 
 ## Exemple
 
-- cd ~/Desktop/Project_blog 
+```bash
+cd ~/Desktop/Project_blog 
+```
 
 Create a new virtual environment in that directory
 
-- python -m pip install virtualenv 
-- virtualenv test
+```bash
+python -m pip install virtualenv 
+virtualenv test
+```
 
 Activate virtual environment
 
-- source test\Scripts\activate
-
+```bash
+source test\Scripts\activate
+```
 Install django 
 
-- pip install django
+```bash
+pip install django
+```
 
-Clone the project
-Go to the repository of our project
+Clone the project then Go to the repository of our project
 
-- cd multilang_site
+```bash
+clone 
+cd multilang_site
+```
 
-Install Docker
-lancement de docker
+Run Docker
 
-- docker compose up
+```bash
+docker compose up
+```
 
 Now open your browser and go to this address
 
 http://localhost:9200/
 
-- command line to run your project 
+### Run the project
 
+command line to run the project 
+
+```bash
 python manage.py runserver
+```
 
-- Now open your browser and go to this address
+Now open your browser and go to this address
 
 http://127.0.0.1:8000/main
