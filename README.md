@@ -36,7 +36,7 @@ pip install django
 Clone the project then Go to the repository of our project
 
 ```bash
-clone 
+clone https://github.com/anismkb/Project_blog.git
 cd multilang_site
 ```
 
