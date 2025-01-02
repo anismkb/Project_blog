@@ -1,5 +1,5 @@
 
-# Poject of blogs
+# A multilingual website
 
 ## Requirements
 
